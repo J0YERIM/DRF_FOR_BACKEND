@@ -1,5 +1,5 @@
 # .gitignore 파일
-secrets.json
+secret.json
 
 # Created by https://www.toptal.com/developers/gitignore/api/venv,django,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=venv,django,visualstudiocode
